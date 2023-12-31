@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
+body{
+    background-image:url(background.jpg);
+}
+.login-page{
+    width: 300px;
+    margin: 180px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.136);
+    border-radius:15px;
+    box-shadow:transparent;
+    font-size: 30px;
+    cursor: pointer;
+}
+.login-page:hover{
+    background-color:rgba(255, 192, 203, 0.582);
+    cursor: pointer;
+}
+.login-page h2{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.309);
+    cursor: pointer;
+}
+.login-page h2:hover{
+    font-size:46px;
+    cursor: pointer;
+}
+.input{
+    color:black;
+    background-color: transparent; 
+    border-radius:10px; 
+    font-size: 20px;
+    cursor: pointer; 
+}
+.checkbox{
+    font-size:26px;
+    cursor: pointer;
+}
+.reset{
+    color:black;
+    background-color: transparent; 
+    border-radius:10px; 
+    width:300px;
+    height: 30px;
+    cursor: pointer;
+}
+.reset:hover{
+    color:white;
+    background-color: royalblue; 
+    border-radius:10px; 
+    width:300px;
+    height:30px;
+    font-size:24px;
+    cursor: pointer;
+}
+#login-button{
+    color:black;
+    background-color: transparent; 
+    border-radius:10px; 
+    width:300px;
+    height: 30px;
+    cursor: pointer;
+}
+#login-button:hover{
+    color:white;
+    background-color: royalblue; 
+    border-radius:10px; 
+    width:300px;
+    height: 30px;
+    font-size:24px;
+    cursor: pointer;
+}
